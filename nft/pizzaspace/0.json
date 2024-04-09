@@ -1,0 +1,21 @@
+{
+    "description": "Pizza Space",
+    "external_url": "https://www.pizzaspace.club",
+    "image": "https://btwgswap.github.io/nft/pizzaspace/images/0.jpg",
+    "name": "Pizza Space",
+    "attributes": [
+        {
+            "trait_type": "数量",
+            "value": "210000"
+        },
+        {
+            "trait_type": "价值",
+            "value": "100U"
+        }
+        ,
+        {
+            "trait_type": "首发",
+            "value": "21000"
+        }
+    ]
+}
