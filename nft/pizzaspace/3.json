@@ -5,12 +5,11 @@
     "name": "Pizza Space",
     "attributes": [
         {
-            "trait_type": "数量",
+            "trait_type": "Total num",
             "value": "210000"
         },
- 
         {
-            "trait_type": "首发",
+            "trait_type": "Initial num",
             "value": "21000"
         }
     ]
