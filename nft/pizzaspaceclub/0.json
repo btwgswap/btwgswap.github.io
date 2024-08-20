@@ -1,0 +1,16 @@
+{
+    "description": "Pizza Space",
+    "external_url": "https://www.pizzaspace.club",
+    "image": "https://btwgswap.github.io/nft/pizzaspace/images/0.jpg",
+    "name": "Pizza Space",
+    "attributes": [
+        {
+            "trait_type": "Total num",
+            "value": "210000"
+        },
+        {
+            "trait_type": "Initial num",
+            "value": "21000"
+        }
+    ]
+}
